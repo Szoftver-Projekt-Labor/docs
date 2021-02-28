@@ -8337,7 +8337,7 @@
 									"font": "Arial;13;0",
 									"left": 226.5,
 									"top": 84.5,
-									"width": 87.3017578125,
+									"width": 86,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF3r7SZ59Apg80="
@@ -8533,7 +8533,7 @@
 									"font": "Arial;13;0",
 									"left": 224.5,
 									"top": 132.5,
-									"width": 79.3544921875,
+									"width": 79,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF3r7S0/tBXbS8="
@@ -11141,7 +11141,7 @@
 									"font": "Arial;13;0",
 									"left": 377.5,
 									"top": 284.5,
-									"width": 83.6455078125,
+									"width": 83,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF3r9GEitb1sr4="
@@ -11721,7 +11721,7 @@
 									"font": "Arial;13;0",
 									"left": 256,
 									"top": 396.5,
-									"width": 75.00634765625,
+									"width": 74,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF3r9P+YuhWaNE="
@@ -12015,7 +12015,7 @@
 									"font": "Arial;13;0",
 									"left": 369.5,
 									"top": 84.5,
-									"width": 84.3818359375,
+									"width": 84,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF303Ydp6A7HZM="
@@ -12214,7 +12214,7 @@
 									"font": "Arial;13;0",
 									"left": 368,
 									"top": 132.5,
-									"width": 76.4345703125,
+									"width": 76,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF303YjGaCe4tg="
@@ -14862,7 +14862,7 @@
 													"_parent": {
 														"$ref": "AAAAAAF35fv70Se605M="
 													},
-													"name": "SequenceDiagram1",
+													"name": "Drill_Robot",
 													"defaultDiagram": true,
 													"ownedViews": [
 														{
@@ -14884,9 +14884,9 @@
 																	"font": "Arial;13;0",
 																	"left": 32.72998046875,
 																	"top": 13,
-																	"width": 115.9052734375,
+																	"width": 65.3017578125,
 																	"height": 13,
-																	"text": "SequenceDiagram1"
+																	"text": "Drill_Robot"
 																},
 																{
 																	"_type": "LabelView",
@@ -16279,9 +16279,9 @@
 																		"$ref": "AAAAAAF35dTRaewuiJ8="
 																	},
 																	"font": "Arial;13;0",
-																	"left": 40.72998046875,
+																	"left": 38.55908203125,
 																	"top": 13,
-																	"width": 77.5908203125,
+																	"width": 71.763671875,
 																	"height": 13,
 																	"text": "Move_Settler"
 																},
@@ -16294,7 +16294,7 @@
 																	"font": "Arial;13;1",
 																	"left": 21,
 																	"top": 13,
-																	"width": 14.72998046875,
+																	"width": 12.55908203125,
 																	"height": 13,
 																	"text": "sd"
 																}
@@ -17909,7 +17909,8 @@
 											"_parent": {
 												"$ref": "AAAAAAF35dTRaOwrr+0="
 											},
-											"name": "Role5"
+											"name": "Role5",
+											"type": ""
 										},
 										{
 											"_type": "UMLAttribute",
@@ -17965,9 +17966,9 @@
 																		"$ref": "AAAAAAF35eZGhgdtMCc="
 																	},
 																	"font": "Arial;13;0",
-																	"left": 32.72998046875,
+																	"left": 30.55908203125,
 																	"top": 13,
-																	"width": 74.708984375,
+																	"width": 69.61181640625,
 																	"height": 13,
 																	"text": "Move_Robot"
 																},
@@ -17980,7 +17981,7 @@
 																	"font": "Arial;13;1",
 																	"left": 13,
 																	"top": 13,
-																	"width": 14.72998046875,
+																	"width": 12.55908203125,
 																	"height": 13,
 																	"text": "sd"
 																}
@@ -19553,7 +19554,8 @@
 											"_parent": {
 												"$ref": "AAAAAAF35eZGhgdqgAA="
 											},
-											"name": "Role1"
+											"name": "Role1",
+											"type": ""
 										},
 										{
 											"_type": "UMLAttribute",
@@ -19646,7 +19648,8 @@
 											"$ref": "AAAAAAF304iyqa6U1PU="
 										},
 										"name": "Direction",
-										"visibility": "private"
+										"visibility": "private",
+										"type": ""
 									}
 								]
 							},
