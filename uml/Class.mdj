@@ -8479,7 +8479,7 @@
 											"top": 1123,
 											"width": 198.33251953125,
 											"height": 13,
-											"text": "+DropItem(s: Settler)",
+											"text": "+DropItem(a: Asteroid)",
 											"horizontalAlignment": 0
 										},
 										{
@@ -27662,9 +27662,9 @@
 									"_parent": {
 										"$ref": "AAAAAAF3+Zs+MlNGXuo="
 									},
-									"name": "s",
+									"name": "a",
 									"type": {
-										"$ref": "AAAAAAF305G3GLTCf84="
+										"$ref": "AAAAAAF3037cSKtirZE="
 									}
 								}
 							]
