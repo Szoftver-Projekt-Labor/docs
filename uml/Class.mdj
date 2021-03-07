@@ -6342,7 +6342,7 @@
 											"top": 1270,
 											"width": 131.87255859375,
 											"height": 13,
-											"text": "+content: CoreMaterial",
+											"text": "-content: CoreMaterial",
 											"horizontalAlignment": 0
 										}
 									],
@@ -6832,8 +6832,8 @@
 								"$ref": "AAAAAAFF+qBtyKM79qY="
 							},
 							"font": "Arial;13;0",
-							"left": 1768,
-							"top": 1352,
+							"left": 1904,
+							"top": 1240,
 							"width": 124.78076171875,
 							"height": 81,
 							"text": "A még ki nem bányászott anyagok típusa nem látszódik a külvilág felé"
@@ -6852,7 +6852,7 @@
 								"$ref": "AAAAAAF3+ROBza2P5xU="
 							},
 							"lineStyle": 1,
-							"points": "1820:1326;1823:1351"
+							"points": "1886:1281;1903:1281"
 						},
 						{
 							"_type": "UMLAssociationView",
@@ -22995,6 +22995,7 @@
 								"$ref": "AAAAAAF3+ROBzK2NlcE="
 							},
 							"name": "content",
+							"visibility": "private",
 							"type": {
 								"$ref": "AAAAAAF36leTcdbymTs="
 							}
