@@ -14948,9 +14948,9 @@
 																		"$ref": "AAAAAAF37ytBJmj4rVk="
 																	},
 																	"font": "Arial;13;0",
-																	"left": 120.72998046875,
+																	"left": 118.55908203125,
 																	"top": 21,
-																	"width": 46.5,
+																	"width": 48.66455078125,
 																	"height": 13,
 																	"text": "UnitDrill"
 																},
@@ -14963,7 +14963,7 @@
 																	"font": "Arial;13;1",
 																	"left": 101,
 																	"top": 21,
-																	"width": 14.72998046875,
+																	"width": 12.55908203125,
 																	"height": 13,
 																	"text": "sd"
 																}
@@ -15888,9 +15888,9 @@
 																		"$ref": "AAAAAAF373up+87JNMY="
 																	},
 																	"font": "Arial;13;0",
-																	"left": 48.72998046875,
+																	"left": 46.55908203125,
 																	"top": 29,
-																	"width": 55.9072265625,
+																	"width": 54.44091796875,
 																	"height": 13,
 																	"text": "UnitMove"
 																},
@@ -15903,7 +15903,7 @@
 																	"font": "Arial;13;1",
 																	"left": 29,
 																	"top": 29,
-																	"width": 14.72998046875,
+																	"width": 12.55908203125,
 																	"height": 13,
 																	"text": "sd"
 																}
@@ -16727,7 +16727,7 @@
 																					"font": "Arial;13;0",
 																					"left": 164,
 																					"top": 326,
-																					"width": 87.42626953125,
+																					"width": 76.87646484375,
 																					"height": 13,
 																					"text": "[great success]"
 																				}
@@ -20027,9 +20027,9 @@
 														"$ref": "AAAAAAF4Dor4fLuRaUs="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 5,
-													"width": 147.66259765625,
+													"width": 133.869140625,
 													"height": 13,
 													"text": "Settler dies in solar storm"
 												},
@@ -20042,7 +20042,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 5,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -29346,8 +29346,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 539,
-											"top": 260,
+											"left": 543,
+											"top": 276,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
@@ -29367,8 +29367,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 539,
-											"top": 275,
+											"left": 543,
+											"top": 291,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 25,
@@ -29388,8 +29388,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 540,
-											"top": 240,
+											"left": 544,
+											"top": 256,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 10,
@@ -29410,7 +29410,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 471,
-											"top": 256,
+											"top": 272,
 											"width": 14,
 											"height": 25
 										}
@@ -29422,7 +29422,7 @@
 									"tail": {
 										"$ref": "AAAAAAF4DvxivdKMtIs="
 									},
-									"points": "597:256;484:256",
+									"points": "604:272;484:272",
 									"nameLabel": {
 										"$ref": "AAAAAAF4DwA1N9LXx7s="
 									},
