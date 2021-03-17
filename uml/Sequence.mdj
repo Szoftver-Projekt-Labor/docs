@@ -44148,7 +44148,7 @@
 													"top": 95,
 													"width": 90,
 													"height": 13,
-													"text": "Controller"
+													"text": "Sandbox"
 												},
 												{
 													"_type": "LabelView",
@@ -47773,7 +47773,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4NqtD3+Libls="
 							},
-							"name": "Controller",
+							"name": "Sandbox",
 							"stereotype": "",
 							"represent": {
 								"$ref": "AAAAAAF4QWpgtrZF1dc="
@@ -47974,7 +47974,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF4LUnYNInpyk4="
 					},
-					"name": "Role10"
+					"name": "Role10",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -48200,7 +48201,8 @@
 								}
 							}
 						}
-					]
+					],
+					"type": ""
 				}
 			]
 		},
@@ -49782,7 +49784,7 @@
 													"top": 79,
 													"width": 90,
 													"height": 13,
-													"text": "Controller"
+													"text": "Sandbox"
 												},
 												{
 													"_type": "LabelView",
@@ -54285,7 +54287,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4N4/5F6LllmI="
 							},
-							"name": "Controller",
+							"name": "Sandbox",
 							"represent": {
 								"$ref": "AAAAAAF4QYcDCCVd6CE="
 							},
@@ -54823,7 +54825,8 @@
 								}
 							}
 						}
-					]
+					],
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -56897,7 +56900,7 @@
 													"top": 143,
 													"width": 90,
 													"height": 13,
-													"text": "Controller"
+													"text": "Sandbox"
 												},
 												{
 													"_type": "LabelView",
@@ -59834,7 +59837,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4N417yJ2i+38="
 							},
-							"name": "Controller",
+							"name": "Sandbox",
 							"represent": {
 								"$ref": "AAAAAAF4QZtqH3J/UGk="
 							},
@@ -60152,7 +60155,8 @@
 								}
 							}
 						}
-					]
+					],
+					"type": ""
 				}
 			]
 		}
