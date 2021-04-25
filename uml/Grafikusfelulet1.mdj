@@ -149,7 +149,7 @@
 											"top": 336,
 											"width": 157.63134765625,
 											"height": 13,
-											"text": "+shouldDraw(v: View): void",
+											"text": "+update(v): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -346,7 +346,7 @@
 											"top": 203,
 											"width": 157.63134765625,
 											"height": 13,
-											"text": "+shouldDraw(v: View): void",
+											"text": "+update(v): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -542,7 +542,7 @@
 											"top": 336,
 											"width": 157.63134765625,
 											"height": 13,
-											"text": "+shouldDraw(v: View): void",
+											"text": "+update(v): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -737,7 +737,7 @@
 											"top": 464,
 											"width": 157.63134765625,
 											"height": 13,
-											"text": "+shouldDraw(v: View): void",
+											"text": "+update(v): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -932,7 +932,7 @@
 											"top": 464,
 											"width": 157.63134765625,
 											"height": 13,
-											"text": "+shouldDraw(v: View): void",
+											"text": "+update(v): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1127,7 +1127,7 @@
 											"top": 464,
 											"width": 157.63134765625,
 											"height": 13,
-											"text": "+shouldDraw(v: View): void",
+											"text": "+update(v): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1829,7 +1829,7 @@
 											"top": 180,
 											"width": 182.4443359375,
 											"height": 13,
-											"text": "+drawSimpleAsteroid(): void",
+											"text": "+obSimpleAsteroid(): void",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1846,7 +1846,7 @@
 											"top": 195,
 											"width": 182.4443359375,
 											"height": 13,
-											"text": "+drawGate(): void",
+											"text": "+obGate(): void",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1863,7 +1863,7 @@
 											"top": 210,
 											"width": 182.4443359375,
 											"height": 13,
-											"text": "+drawMainAsteroid(): void",
+											"text": "+obMainAsteroid(): void",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1880,7 +1880,7 @@
 											"top": 225,
 											"width": 182.4443359375,
 											"height": 13,
-											"text": "+drawBackground(): void",
+											"text": "+obBackground(): void",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1897,7 +1897,7 @@
 											"top": 240,
 											"width": 182.4443359375,
 											"height": 13,
-											"text": "+drawAsteroidStatus(): void",
+											"text": "+obAsteroidStatus(): void",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1914,7 +1914,7 @@
 											"top": 255,
 											"width": 182.4443359375,
 											"height": 13,
-											"text": "+drawInventory(): void",
+											"text": "+obInventory(): void",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1931,7 +1931,7 @@
 											"top": 270,
 											"width": 182.4443359375,
 											"height": 13,
-											"text": "+drawUnits(): void",
+											"text": "+obUnits(): void",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1948,7 +1948,7 @@
 											"top": 285,
 											"width": 182.4443359375,
 											"height": 13,
-											"text": "+drawButtons(): void",
+											"text": "+obButtons(): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2143,7 +2143,7 @@
 											"top": 216,
 											"width": 157.63134765625,
 											"height": 13,
-											"text": "+shouldDraw(v: View): void",
+											"text": "+update(v): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2338,7 +2338,7 @@
 											"top": 152,
 											"width": 157.63134765625,
 											"height": 13,
-											"text": "+shouldDraw(v: View): void",
+											"text": "+update(v): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2533,7 +2533,7 @@
 											"top": 280,
 											"width": 157.63134765625,
 											"height": 13,
-											"text": "+shouldDraw(v: View): void",
+											"text": "+update(v): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -3104,7 +3104,7 @@
 											"top": 424,
 											"width": 165.33740234375,
 											"height": 13,
-											"text": "+drawAll(): void",
+											"text": "+obAll(): void",
 											"horizontalAlignment": 0
 										},
 										{
@@ -3121,7 +3121,7 @@
 											"top": 439,
 											"width": 165.33740234375,
 											"height": 13,
-											"text": "+AddView(v: View): void",
+											"text": "+AddView(v): void",
 											"horizontalAlignment": 0
 										},
 										{
@@ -3138,7 +3138,7 @@
 											"top": 454,
 											"width": 165.33740234375,
 											"height": 13,
-											"text": "+RemoveView(v: View): void",
+											"text": "+RemoveView(v): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -3394,9 +3394,9 @@
 										"$ref": "AAAAAAF4+qkTsNFr9uE="
 									},
 									"font": "Arial;13;0",
-									"left": 680,
+									"left": 679,
 									"top": 355,
-									"width": 5.05908203125,
+									"width": 6.5,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -3509,7 +3509,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+l63UsIpMRU="
 							},
-							"name": "shouldDraw",
+							"name": "update",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3517,10 +3517,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF4+mY4IcSJqgg="
 									},
-									"name": "v",
-									"type": {
-										"$ref": "AAAAAAF4+l3xK8HQIAQ="
-									}
+									"name": "v"
 								},
 								{
 									"_type": "UMLParameter",
@@ -3564,7 +3561,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+l8jecKAEOY="
 							},
-							"name": "shouldDraw",
+							"name": "update",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3581,10 +3578,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF4+mMAVMPY/uE="
 									},
-									"name": "v",
-									"type": {
-										"$ref": "AAAAAAF4+l3xK8HQIAQ="
-									}
+									"name": "v"
 								}
 							],
 							"isAbstract": true
@@ -3620,7 +3614,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mAABMLMKBM="
 							},
-							"name": "shouldDraw",
+							"name": "update",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3628,10 +3622,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF4+mYnw8R++PI="
 									},
-									"name": "v",
-									"type": {
-										"$ref": "AAAAAAF4+l3xK8HQIAQ="
-									}
+									"name": "v"
 								},
 								{
 									"_type": "UMLParameter",
@@ -3675,7 +3666,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mIln8MgKXI="
 							},
-							"name": "shouldDraw",
+							"name": "update",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3683,10 +3674,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF4+mZHecSUUJM="
 									},
-									"name": "v",
-									"type": {
-										"$ref": "AAAAAAF4+l3xK8HQIAQ="
-									}
+									"name": "v"
 								},
 								{
 									"_type": "UMLParameter",
@@ -3730,7 +3718,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mJFisNKDiM="
 							},
-							"name": "shouldDraw",
+							"name": "update",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3738,10 +3726,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF4+mZdDMSfIa0="
 									},
-									"name": "v",
-									"type": {
-										"$ref": "AAAAAAF4+l3xK8HQIAQ="
-									}
+									"name": "v"
 								},
 								{
 									"_type": "UMLParameter",
@@ -3785,7 +3770,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mJYicN0rUw="
 							},
-							"name": "shouldDraw",
+							"name": "update",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3793,10 +3778,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF4+mZs3MSqaKY="
 									},
-									"name": "v",
-									"type": {
-										"$ref": "AAAAAAF4+l3xK8HQIAQ="
-									}
+									"name": "v"
 								},
 								{
 									"_type": "UMLParameter",
@@ -3880,7 +3862,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mSZYcQ99HU="
 							},
-							"name": "drawSimpleAsteroid",
+							"name": "obSimpleAsteroid",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3899,7 +3881,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mSZYcQ99HU="
 							},
-							"name": "drawGate",
+							"name": "obGate",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3918,7 +3900,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mSZYcQ99HU="
 							},
-							"name": "drawMainAsteroid",
+							"name": "obMainAsteroid",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3937,7 +3919,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mSZYcQ99HU="
 							},
-							"name": "drawBackground",
+							"name": "obBackground",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3956,7 +3938,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mSZYcQ99HU="
 							},
-							"name": "drawAsteroidStatus",
+							"name": "obAsteroidStatus",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3975,7 +3957,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mSZYcQ99HU="
 							},
-							"name": "drawInventory",
+							"name": "obInventory",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -3994,7 +3976,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mSZYcQ99HU="
 							},
-							"name": "drawUnits",
+							"name": "obUnits",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -4013,7 +3995,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+mSZYcQ99HU="
 							},
-							"name": "drawButtons",
+							"name": "obButtons",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -4057,7 +4039,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+pkJl8gxMtY="
 							},
-							"name": "shouldDraw",
+							"name": "update",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -4065,10 +4047,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF4+pk/1MiIxYw="
 									},
-									"name": "v",
-									"type": {
-										"$ref": "AAAAAAF4+l3xK8HQIAQ="
-									}
+									"name": "v"
 								},
 								{
 									"_type": "UMLParameter",
@@ -4112,7 +4091,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+psAOMpz7LQ="
 							},
-							"name": "shouldDraw",
+							"name": "update",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -4120,10 +4099,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF4+ptDtcsGIS8="
 									},
-									"name": "v",
-									"type": {
-										"$ref": "AAAAAAF4+l3xK8HQIAQ="
-									}
+									"name": "v"
 								},
 								{
 									"_type": "UMLParameter",
@@ -4167,7 +4143,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+pslesq4Wuo="
 							},
-							"name": "shouldDraw",
+							"name": "update",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -4175,10 +4151,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF4+ptRKMs+MZw="
 									},
-									"name": "v",
-									"type": {
-										"$ref": "AAAAAAF4+l3xK8HQIAQ="
-									}
+									"name": "v"
 								},
 								{
 									"_type": "UMLParameter",
@@ -4207,7 +4180,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4+qiUl9EjrxI="
 							},
-							"name": "drawAll",
+							"name": "obAll",
 							"parameters": [
 								{
 									"_type": "UMLParameter",
@@ -4234,10 +4207,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF4+q2eT9S7OuM="
 									},
-									"name": "v",
-									"type": {
-										"$ref": "AAAAAAF4+l3xK8HQIAQ="
-									}
+									"name": "v"
 								},
 								{
 									"_type": "UMLParameter",
@@ -4264,10 +4234,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF4+q3detThGOQ="
 									},
-									"name": "v",
-									"type": {
-										"$ref": "AAAAAAF4+l3xK8HQIAQ="
-									}
+									"name": "v"
 								},
 								{
 									"_type": "UMLParameter",
